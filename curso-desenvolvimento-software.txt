@@ -1,24 +1,24 @@
 <body>
     <h1>Estrutura do Curso</h1>
     <ul>
-        <li><strong>Modalidade:</strong> Presencial com 20% da carga horária oferecida remotamente (aulas remotas síncronas).</li>
-        <li><strong>Carga Horária Total:</strong> 2.400 horas (2880 aulas de 50 minutos cada).</li>
-        <li><strong>Estágio Supervisionado:</strong> 240 horas obrigatórias.</li>
-        <li><strong>Duração:</strong> 6 semestres (mínimo de 3 anos, máximo de 5 anos).</li>
-        <li><strong>Vagas:</strong> 40 por turno (noturno).</li>
-        <li><strong>Forma de Acesso:</strong> Vestibular (prova única com questões do Ensino Médio) ou processo seletivo para vagas remanescentes.</li>
+        <li>Modalidade: Presencial com 20% da carga horária oferecida remotamente (aulas remotas síncronas).</li>
+        <li>Carga Horária Total: 2.400 horas (2880 aulas de 50 minutos cada).</li>
+        <li>Estágio Supervisionado: 240 horas obrigatórias.</li>
+        <li>Duração: 6 semestres (mínimo de 3 anos, máximo de 5 anos).</li>
+        <li>Vagas: 40 por turno (noturno).</li>
+        <li>Forma de Acesso: Vestibular (prova única com questões do Ensino Médio) ou processo seletivo para vagas remanescentes.</li>
     </ul>
 
     <h1>Semestres e Disciplinas</h1>
 
     <h2>Primeiro Semestre - 1º semestre</h2>
     <ul>
-        <li><strong>Algoritmo e Lógica de Programação:</strong> Desenvolver competências para distinguir e aplicar metodologias de desenvolvimento de software, além de criar algoritmos e programas de computador, aplicando conceitos de lógica de programação.</li>
-        <li><strong>Desenvolvimento Web I:</strong> Introduzir os alunos ao desenvolvimento de aplicações web, utilizando linguagens de marcação e programação para criar páginas web estáticas e dinâmicas.</li>
-        <li><strong>Design Digital:</strong> Ensinar os princípios de design digital, focando na criação de interfaces gráficas, experiência do usuário e interação com sistemas computacionais.</li>
-        <li><strong>Engenharia de Software I:</strong> Apresentar os conceitos básicos de engenharia de software, incluindo o ciclo de vida do software e as metodologias de desenvolvimento.</li>
-        <li><strong>Modelagem de Banco de Dados:</strong> Introduzir o aluno à modelagem de dados, focando em banco de dados relacionais e as técnicas para projetar estruturas de armazenamento eficientes.</li>
-        <li><strong>Sistemas Operacionais e Redes de Computadores:</strong> Ensinar os fundamentos de sistemas operacionais e redes, preparando os alunos para compreender as interações entre hardware e software.</li>
+        <li>Algoritmo e Lógica de Programação: Desenvolver competências para distinguir e aplicar metodologias de desenvolvimento de software, além de criar algoritmos e programas de computador, aplicando conceitos de lógica de programação.</li>
+        <li>Desenvolvimento Web I: Introduzir os alunos ao desenvolvimento de aplicações web, utilizando linguagens de marcação e programação para criar páginas web estáticas e dinâmicas.</li>
+        <li>Design Digital: Ensinar os princípios de design digital, focando na criação de interfaces gráficas, experiência do usuário e interação com sistemas computacionais.</li>
+        <li><strong>Engenharia de Software I: Apresentar os conceitos básicos de engenharia de software, incluindo o ciclo de vida do software e as metodologias de desenvolvimento.</li>
+        <li><strong>Modelagem de Banco de Dados: Introduzir o aluno à modelagem de dados, focando em banco de dados relacionais e as técnicas para projetar estruturas de armazenamento eficientes.</li>
+        <li>Sistemas Operacionais e Redes de Computadores: Ensinar os fundamentos de sistemas operacionais e redes, preparando os alunos para compreender as interações entre hardware e software.</li>
     </ul>
 
     <h2>Segundo Semestre - 2º semestre</h2>
