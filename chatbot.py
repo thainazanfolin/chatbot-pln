@@ -94,15 +94,15 @@ sentencas_preprocessadas = [preprocessamento(sentenca) for sentenca in sentencas
 cont = True
 print('Olá! Eu sou um chatbot e vou responder suas perguntas sobre o curso de Desenvolvimento de Software Multiplataforma da FATEC Araras. Escreva SAIR quando quiser encerrar nossa conversa!')
 
-while cont:
-    user_text = input()  # coletar a entrada do usuário
+# while cont:
+#     user_text = input()  # coletar a entrada do usuário
 
-    if user_text.lower() != 'sair':
-        # se o texto contém uma saudação (ver função)
-        if welcome_message(user_text) is not None:
-            print('Chatbot: ' + welcome_message(user_text))
-        else:
-            print('Chatbot: \n' + answer(user_text))  # usar a função answer() para responder
-    else:
-        cont = False
-        print('Chatbot: Tchau! Até a próxima!')
+#     if user_text.lower() != 'sair':
+#         # se o texto contém uma saudação (ver função)
+#         if welcome_message(user_text) is not None:
+#             print('Chatbot: ' + welcome_message(user_text))
+#         else:
+#             print('Chatbot: \n' + answer(user_text))  # usar a função answer() para responder
+#     else:
+#         cont = False
+#         print('Chatbot: Tchau! Até a próxima!')
